@@ -1,0 +1,1 @@
+Please download all files as a folder. Run a local server or any kind of server that can host the site, and then insert images and simply click predict. This is very basic and my HTML is not sharp, but it is a good start I believe :)
